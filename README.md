@@ -21,3 +21,5 @@ Sales Prediction Project in Python
 The Sales Prediction Project aims to forecast future sales trends using historical data and external factors. By utilizing time series analysis and regression techniques, the project provides accurate sales forecasts to assist in decision-making processes.
 
 These projects showcase the application of Python in various domains of data science and machine learning, offering valuable insights and solutions to real-world problems. Each project includes code files, datasets, and documentation to guide users through the implementation and analysis process.
+
+# Download the datasets from Kaggle
